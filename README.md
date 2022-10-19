@@ -1,3 +1,5 @@
+origin: https://github.com/OPCFoundation/UA-.NET-Legacy
+
 # OPC Foundation UA .NET-Legacy
 
 This repository is provided by OPC Foundation as legacy support for older .NET Framework versions and will not receive further features and updates.
